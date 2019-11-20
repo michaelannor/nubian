@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Enabling Africa’s Creators & Educators
+title: 'New Edit: Enabling Africa’s Creators & Educators'
 postsHeading: Latest postings
 archiveButtonText: See all posts
 socialImage: ''
