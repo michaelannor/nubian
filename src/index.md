@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Enabling Africa’s Creators & Educators
-postsHeading: Latest posts
+postsHeading: Latest postings
 archiveButtonText: See all posts
 socialImage: ''
 ---
